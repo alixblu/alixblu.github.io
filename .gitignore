@@ -17,6 +17,5 @@ yarn-error.log*
 # Dependencies
 node_modules/
 dist/
-package-lock.json
-yarn.lock 
+yarn.lock
 resume.pdf
